@@ -12,7 +12,7 @@ I'm a passionate software developer with a keen interest in blockchain technolog
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/rajabu-shabani)
-- [Twitter](https://twitter.com/Raj_dev)
+- [Twitter](https://twitter.com/Raj__dev)
 - [Email](mailto:rajabujshabani@gmail.com)
 
 ## 📫 How to reach me
