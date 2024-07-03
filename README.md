@@ -25,7 +25,7 @@ A brief description of your project.
 A brief description of your project.
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=raj-codertz&show_icons=true&hide_border=true)
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
