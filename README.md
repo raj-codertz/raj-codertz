@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Rajabu Juma Shabani 👋
 
 ## 🚀 About Me
 I'm a passionate software developer with a keen interest in blockchain technology, particularly using Ethereum. I have a solid foundation in multiple programming languages and frameworks, which allows me to build robust and scalable applications.
